@@ -28,7 +28,7 @@ The Remote Patient Monitoring System (RPMS) is an IoT-based healthcare solution 
 ### Software
 
 * Arduino IDE
-* Embedded C
+* Embedded C++
 
 ## System Architecture
 
